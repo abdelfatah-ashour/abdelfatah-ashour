@@ -11,5 +11,3 @@
 
 - 📄 Know about my experiences [https://abdelfatah-ashour-portfolio.vercel.app/download/Abdelfatah-Ashour-Resume-Frontend-Developer.pdf](https://abdelfatah-ashour-portfolio.vercel.app/download/Abdelfatah-Ashour-Resume-Frontend-Developer.pdf)
 
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdelfatah-ashour&" alt="abdelfatah-ashour" /></p>
