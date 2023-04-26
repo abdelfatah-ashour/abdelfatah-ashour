@@ -5,12 +5,26 @@
 
 <h4>How to reach me?</h4>
 
-- <img src="./assets/images/i-gmail.png" alt="abdelfatah ashour" style="margin:0 .8rem" width="24" height="24"> [Gmail](mailto:abdelfatahashour4@gmail.com)
+<div style="display:flex;align-items:center;margin-bottom:1.5rem">
+<img src="./assets/images/i-gmail.png" alt="abdelfatah ashour" style="margin:0 .8rem" width="24" height="24"><a href="mailto:abdelfatahashour4@gmail.com" target="_blank" rel="noopener noreferrer" title="Abdelfatah Ashour">Gmail</a>
+</div>
 
-- <img src="./assets/images/i-github.png" alt="abdelfatah ashour" style="margin:0 .8rem" width="24" height="24"> [GitHub](https://github.com/abdelfatah-ashour)
+<div style="display:flex;align-items:center;margin-bottom:1.5rem">
+<img src="./assets/images/i-github.png" alt="abdelfatah ashour" style="margin:0 .8rem" width="24" height="24">
+<a href="https://github.com/abdelfatah-ashour" target="_blank" rel="noopener noreferrer" title="Abdelfatah Ashour">GtiHub</a>
+</div>
 
-- <img src="./assets/images/i-linkedin.png" alt="abdelfatah ashour" style="margin:0 .8rem" width="24" height="24"> [LinkedIn](https://www.linkedin.com/in/abdelfatah-ashour)
+<div style="display:flex;align-items:center;margin-bottom:1.5rem">
+<img src="./assets/images/i-linkedin.png" alt="abdelfatah ashour" style="margin:0 .8rem" width="24" height="24">
+<a href="https://www.linkedin.com/in/abdelfatah-ashour" target="_blank" rel="noopener noreferrer" title="Abdelfatah Ashour">LinkedIn</a>
+</div>
 
-- <img src="./assets/images/i-twitter.png" alt="abdelfatah ashour" style="margin:0 .8rem" width="24" height="24"> [Twitter](https://twitter.com/abdoashour07)
+<div style="display:flex;align-items:center;margin-bottom:1.5rem">
+<img src="./assets/images/i-twitter.png" alt="abdelfatah ashour" style="margin:0 .8rem" width="24" height="24">
+<a href="https://twitter.com/abdoashour07" target="_blank" rel="noopener noreferrer" title="Abdelfatah Ashour">Twitter</a>
+</div>
 
-- <img src="./assets/images/i-coffee.png" alt="abdelfatah ashour" style="margin:0 .8rem" width="24" height="24"> [By Me Coffee](https://www.buymeacoffee.com/abdelfatah)
+<div style="display:flex;align-items:center;margin-bottom:1.5rem">
+<img src="./assets/images/i-coffee.png" alt="abdelfatah ashour" style="margin:0 .8rem" width="24" height="24">
+<a href="https://www.buymeacoffee.com/abdelfatah" target="_blank" rel="noopener noreferrer" title="Abdelfatah Ashour">By me coffee</a>
+</div>
