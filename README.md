@@ -1,17 +1,12 @@
 # Hi 👋, I'm Abdelfatah Ashour
 
-### Frontend Developer
+**Frontend Developer**
 
-- 👨‍💻 All of my projects are available at [my website](https://abdelfatah-ashour.vercel.app)
+**How to reach me?**
 
-#### How to reach me?
+[Email](mailto:abdelfatahashour4@gmail.com) |
+[GitHub](https://github.com/abdelfatah-ashour) |
+[LinkedIn](https://www.linkedin.com/in/abdelfatah-ashour) |
+[Twitter](https://twitter.com/abdoashour07)
 
-![abdelfatah ashour](./assets/images/i-gmail.svg)[Gmail](mailto:abdelfatahashour4@gmail.com "Abdelfatah Ashour")
-
-![abdelfatah ashour](./assets/images/i-github.svg) [GtiHub](https://github.com/abdelfatah-ashour "Abdelfatah Ashour")
-
-![abdelfatah ashour](./assets/images/i-linkedin.svg) [LinkedIn](https://www.linkedin.com/in/abdelfatah-ashour "Abdelfatah Ashour")
-
-![abdelfatah ashour](./assets/images/i-twitter.svg) [Twitter](https://twitter.com/abdoashour07 "Abdelfatah Ashour")
-
-![abdelfatah ashour](./assets/images/i-coffee.svg) [By me coffee](https://www.buymeacoffee.com/abdelfatah "Abdelfatah Ashour")
+Support me [Buy me a Coffee](https://www.buymeacoffee.com/abdelfatah)
