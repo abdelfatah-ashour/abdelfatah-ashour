@@ -8,6 +8,6 @@
 [GitHub](https://github.com/abdelfatah-ashour) |
 [LinkedIn](https://www.linkedin.com/in/abdelfatah-ashour) |
 [Twitter](https://twitter.com/abdoashour07) |
-[Website]([https://twitter.com/abdoashour07](https://abdelfatah-ashour.vercel.app/))
+[Website](https://abdelfatah-ashour.vercel.app/)
 
 Support me [Buy me a Coffee](https://www.buymeacoffee.com/abdelfatah)
